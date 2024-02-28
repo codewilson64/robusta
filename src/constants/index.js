@@ -37,16 +37,16 @@ export const contacts = [
   {
     id: "contact-1",
     icon: whatsapp,
-    link: "https://wa.me/6287885343817",
+    link: "https://wa.me/6282260686922",
   },
   {
     id: "contact-2",
     icon: instagram,
-    link: "https://www.instagram.com/ra_chel025/",
+    // link: "https://www.instagram.com/ra_chel025/",
   },
   {
     id: "contact-3",
     icon: tiktok,
-    link: "https://www.tiktok.com/@kazeguinevere",
+    // link: "https://www.tiktok.com/@kazeguinevere",
   },
 ];
